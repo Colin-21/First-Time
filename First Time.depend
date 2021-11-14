@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1636057707 source:h:\code\c\first time\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1635628743 source:h:\code\c\first time\lesson1.c
+	<stdio.h>
+	<stdlib.h>
+
+1636057634 source:h:\code\c\first time\lesson2x4.c
+	<stdio.h>
+
+1636057896 source:h:\code\c\first time\lesson5.c
+	<stdio.h>
+	<stdlib.h>
+
